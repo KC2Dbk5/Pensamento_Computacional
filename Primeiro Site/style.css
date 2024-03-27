@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(11, 84, 35);
+    text-align: center;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font: 50px;
+    text-align: center;
+    color: aliceblue;
+}
+
+h2 {
+    color: rgb(229, 255, 0);
+}
+
+h3 {
+    color: rgb(255, 153, 0);
+}
+
+p {
+    color: brown;
+}
+
+img {
+    margin: 5px;
+    border-radius: 50%;
+}
+
+.verde {
+    color: rgb(0, 255, 64);
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
